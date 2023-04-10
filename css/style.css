@@ -1,0 +1,123 @@
+.im0{
+width: 50%;
+margin: auto;
+opacity: 0.5;
+display: block;
+
+
+}
+
+.inizio{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100;
+    text-align: center;
+    margin:auto;
+    display: block;
+    padding-bottom:1% ;
+  top: 50%;
+  left: 50%;
+  transform:translate(-0%, -80%) ;
+}
+
+.inizio1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36;
+    text-align: center;
+    margin: auto;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform:translate(-0%, -150%) ;
+}
+
+
+.maroc{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.maroc1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 10%;
+}
+
+.im1{;
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+.mess{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.mess1{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 10%;
+
+}
+
+.im2{
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+.brit{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+
+
+}
+
+
+.brit1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 10%;
+
+}
+
+.im3{
+
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+
+.hr{
+
+    border: 10px solid gray
+}
+
+.fb{
+    margin: auto;
+    width:50px;
+    display: block;
+}
+
+.ig{
+    margin: auto;
+    width: 50px;
+    display: block;
+}
